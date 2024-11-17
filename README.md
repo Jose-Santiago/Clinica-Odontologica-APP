@@ -32,6 +32,6 @@ El proyecto está organizado siguiendo el patrón de diseño MVC (Modelo-Vista-C
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone https://github.com/tu_usuario/clinica-odontologica.git
+   git clone https://github.com/Jose-Santiago/Clinica-Odontologica-APP.git
    cd clinica-odontologica
    ```
